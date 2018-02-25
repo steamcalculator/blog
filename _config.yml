@@ -1,0 +1,17 @@
+title: SteamCalculator
+email: info@steamcalculator.com
+description: >-
+    How much is your Steam account worth? Get the latest news and updates about SteamCalculator.com.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.steamcalculator.com"
+google_analytics: UA-5294124-3
+twitter_username: steamcalculator
+github_username: steamcalculator
+facebook_username: steamcalculator
+markdown: kramdown
+permalink: /:year/:title
+timezone: Europe/London
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  #- jekyll-sitemap
